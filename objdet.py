@@ -1,6 +1,5 @@
 import cv2
 from PIL import Image,ImageTk
-import tkinter as tk
 import numpy as np
 
 
